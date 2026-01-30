@@ -109,11 +109,7 @@ campus-navigation/
    - The app calculates the route using your chosen algorithm.  
    - A polyline is drawn on the map indicating the path.
 
-### Live Demo
-Here's a quick GIF demonstrating the main workflow:
 
-![Campus Nav Demo](demo.gif)
----
 
 ## Future Enhancements
 
@@ -126,11 +122,6 @@ Here's a quick GIF demonstrating the main workflow:
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md) - see the `LICENSE.md` file for details.
-
----
 
 ## Acknowledgments
 
@@ -142,3 +133,4 @@ This project is licensed under the [MIT License](LICENSE.md) - see the `LICENSE.
 
 **Thank you for checking out the Campus Navigation System!**  
 If you have any questions or suggestions, feel free to open an issue or submit a pull request on GitHub.
+
